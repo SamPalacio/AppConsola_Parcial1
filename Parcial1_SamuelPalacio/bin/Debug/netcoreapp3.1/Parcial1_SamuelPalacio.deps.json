@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Parcial1_SamuelPalacio/1.0.0": {
+        "runtime": {
+          "Parcial1_SamuelPalacio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial1_SamuelPalacio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
